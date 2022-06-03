@@ -9,7 +9,7 @@ In HealthRelax (playground name) I tried to enhance memories with pictures and j
 
 # 👨🏼‍💻 #WWDC2022
 
-<p align="center"><a href="https://developer.apple.com/wwdc2022" target="_blank">
+<p align="center"><a href="https://developer.apple.com/wwdc22/" target="_blank">
   <img src="https://developer.apple.com/wwdc22/images/hero-p3/hero-medium.jpg">
 </a></p>
 
